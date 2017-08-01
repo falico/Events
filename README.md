@@ -19,6 +19,8 @@ Event | date | Location | Year
 [Agile Brasil](http://www.agilebrazil.com/2016/en/home-en/)|:question:|:question:|:question:|2017
 [Agile Trends](https://agiletrendsbr.com/)|29/10-03/12-07/12|Belém–PA - Campo Grande – MS - Brasília – DF|2016
 [DevFest SP](https://sp.devfest.com.br/)|12/11|São Paulo-SP|2016
+[DevXperience](https://www.devxperience.com.br/)|01,02/09|São Paulo-SP|2017
+
 
 ##International
 
